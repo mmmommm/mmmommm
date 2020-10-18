@@ -13,4 +13,4 @@
   </a>
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mmmommm)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mmmommm&margin-w=30)](https://github.com/ryo-ma/github-profile-trophy)

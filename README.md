@@ -8,10 +8,10 @@
 </p>
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=mmmommm&show_icons=true&theme=dark&count_private=true">
+    <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=mmmommm&show_icons=true&theme=dark&count_private=true">
   </a>
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmmommm&layout=compact&theme=dark">
+    <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmmommm&layout=compact&theme=dark">
   </a>
 </p>

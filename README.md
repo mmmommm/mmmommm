@@ -8,8 +8,3 @@
     <img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn">
   </a>
 </p>
-<p>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=mmmommm&show_icons=true&theme=dark&count_private=true">
-  </a>
-</p>
